@@ -1,0 +1,13 @@
+
+{
+    "seqnet":{
+        "model": ".\\models\\seqnet\\Final_Emer_Iteration_3_cropsize_128_epochs_200.hdf5",
+        "output": "./output/seqnet"
+    },
+    "clahe":{
+        "output": "./output/clahe"
+    },
+    "sam": {
+        "output": "./output/sam"
+    }
+}
